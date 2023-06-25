@@ -10,7 +10,7 @@
 ### 给 爷 爪 巴
 
 ## 使用方法
-在settings.json中配置要爬取的房间号范围：[name1, name2]
+在settings.json中配置要爬取的房间号范围：[num1, num2]
 
 然后运行脚本
 
